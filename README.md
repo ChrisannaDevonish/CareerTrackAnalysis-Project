@@ -1,3 +1,3 @@
 **Career Track Analysis**
-This project required me to analyze the career track enrollments and completions of students.
+In this project I used different SQL clauses and statements to extract the correct data for the analysis. Then provided visuals in Tableau.
 
